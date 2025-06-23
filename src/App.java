@@ -11,5 +11,7 @@ public class App {
         System.out.println(person1Address);
         System.out.println(person1Country);
         System.out.println(person1Say);
+        System.out.println(person1Say);
+
     }
 }
