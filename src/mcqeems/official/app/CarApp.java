@@ -1,7 +1,7 @@
 package mcqeems.official.app;
 
-import mcqeems.official.app.data.Avanza;
-import mcqeems.official.app.data.Car;
+import mcqeems.official.data.Avanza;
+import mcqeems.official.data.Car;
 
 public class CarApp {
 
@@ -9,5 +9,6 @@ public class CarApp {
 		Car car = new Avanza();
 		System.out.println(car.getTier());
 		car.drive();
+
 	}
 }

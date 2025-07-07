@@ -1,6 +1,6 @@
 package mcqeems.official.app;
 
-import mcqeems.official.app.data.City;
+import mcqeems.official.data.City;
 
 public class LocationApp {
 	public static void main(String[] args) {

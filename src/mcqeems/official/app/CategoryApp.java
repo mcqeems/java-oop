@@ -1,6 +1,6 @@
 package mcqeems.official.app;
 
-import mcqeems.official.app.data.Category;
+import mcqeems.official.data.Category;
 
 public class CategoryApp {
 	public static void main(String[] args) {

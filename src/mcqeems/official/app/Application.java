@@ -1,6 +1,6 @@
 package mcqeems.official.app;
 
-import mcqeems.official.app.data.*;
+import mcqeems.official.data.*;
 
 public class Application {
 	public static void main(String[] args) {
